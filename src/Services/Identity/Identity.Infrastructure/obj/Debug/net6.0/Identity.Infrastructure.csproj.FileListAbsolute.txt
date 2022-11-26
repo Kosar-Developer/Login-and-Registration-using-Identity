@@ -1,0 +1,57 @@
+C:\Users\mc\Downloads\sattec\sattec\src\Services\Identity\Identity.Infrastructure\bin\Debug\net6.0\sattec.Identity.Infrastructure.deps.json
+C:\Users\mc\Downloads\sattec\sattec\src\Services\Identity\Identity.Infrastructure\bin\Debug\net6.0\sattec.Identity.Infrastructure.dll
+C:\Users\mc\Downloads\sattec\sattec\src\Services\Identity\Identity.Infrastructure\bin\Debug\net6.0\sattec.Identity.Infrastructure.pdb
+C:\Users\mc\Downloads\sattec\sattec\src\Services\Identity\Identity.Infrastructure\bin\Debug\net6.0\sattec.Identity.Application.dll
+C:\Users\mc\Downloads\sattec\sattec\src\Services\Identity\Identity.Infrastructure\bin\Debug\net6.0\sattec.Identity.Domain.dll
+C:\Users\mc\Downloads\sattec\sattec\src\Services\Identity\Identity.Infrastructure\bin\Debug\net6.0\sattec.Identity.Application.pdb
+C:\Users\mc\Downloads\sattec\sattec\src\Services\Identity\Identity.Infrastructure\bin\Debug\net6.0\sattec.Identity.Domain.pdb
+C:\Users\mc\Downloads\sattec\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net6.0\Identity.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\mc\Downloads\sattec\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net6.0\Identity.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mc\Downloads\sattec\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net6.0\Identity.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\mc\Downloads\sattec\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net6.0\Identity.Infrastructure.AssemblyInfo.cs
+C:\Users\mc\Downloads\sattec\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net6.0\Identity.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\mc\Downloads\sattec\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net6.0\Identity.Infrastructure.csproj.CopyComplete
+C:\Users\mc\Downloads\sattec\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net6.0\sattec.Identity.Infrastructure.dll
+C:\Users\mc\Downloads\sattec\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net6.0\refint\sattec.Identity.Infrastructure.dll
+C:\Users\mc\Downloads\sattec\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net6.0\sattec.Identity.Infrastructure.pdb
+C:\Users\mc\Downloads\sattec\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net6.0\ref\sattec.Identity.Infrastructure.dll
+C:\Users\mc\Downloads\sattec\sattec\src\Services\Identity\Identity.Infrastructure\bin\Debug\net6.0\sattec.Identity.Infrastructure.runtimeconfig.json
+C:\Users\mc\Downloads\sattec\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net6.0\Identity.Infrastructure.genruntimeconfig.cache
+C:\Users\mc\Downloads\identity\identity\sattec\src\Services\Identity\Identity.Infrastructure\bin\Debug\net6.0\sattec.Identity.Infrastructure.deps.json
+C:\Users\mc\Downloads\identity\identity\sattec\src\Services\Identity\Identity.Infrastructure\bin\Debug\net6.0\sattec.Identity.Infrastructure.runtimeconfig.json
+C:\Users\mc\Downloads\identity\identity\sattec\src\Services\Identity\Identity.Infrastructure\bin\Debug\net6.0\sattec.Identity.Infrastructure.dll
+C:\Users\mc\Downloads\identity\identity\sattec\src\Services\Identity\Identity.Infrastructure\bin\Debug\net6.0\sattec.Identity.Infrastructure.pdb
+C:\Users\mc\Downloads\identity\identity\sattec\src\Services\Identity\Identity.Infrastructure\bin\Debug\net6.0\sattec.Identity.Application.dll
+C:\Users\mc\Downloads\identity\identity\sattec\src\Services\Identity\Identity.Infrastructure\bin\Debug\net6.0\sattec.Identity.Domain.dll
+C:\Users\mc\Downloads\identity\identity\sattec\src\Services\Identity\Identity.Infrastructure\bin\Debug\net6.0\sattec.Identity.Application.pdb
+C:\Users\mc\Downloads\identity\identity\sattec\src\Services\Identity\Identity.Infrastructure\bin\Debug\net6.0\sattec.Identity.Domain.pdb
+C:\Users\mc\Downloads\identity\identity\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net6.0\Identity.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\mc\Downloads\identity\identity\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net6.0\Identity.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mc\Downloads\identity\identity\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net6.0\Identity.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\mc\Downloads\identity\identity\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net6.0\Identity.Infrastructure.AssemblyInfo.cs
+C:\Users\mc\Downloads\identity\identity\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net6.0\Identity.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\mc\Downloads\identity\identity\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net6.0\Identity.Infrastructure.csproj.CopyComplete
+C:\Users\mc\Downloads\identity\identity\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net6.0\sattec.Identity.Infrastructure.dll
+C:\Users\mc\Downloads\identity\identity\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net6.0\refint\sattec.Identity.Infrastructure.dll
+C:\Users\mc\Downloads\identity\identity\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net6.0\sattec.Identity.Infrastructure.pdb
+C:\Users\mc\Downloads\identity\identity\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net6.0\Identity.Infrastructure.genruntimeconfig.cache
+C:\Users\mc\Downloads\identity\identity\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net6.0\ref\sattec.Identity.Infrastructure.dll
+C:\Users\mc\Downloads\identity (3)\identity\identity\sattec\src\Services\Identity\Identity.Infrastructure\bin\Debug\net6.0\sattec.Identity.Infrastructure.deps.json
+C:\Users\mc\Downloads\identity (3)\identity\identity\sattec\src\Services\Identity\Identity.Infrastructure\bin\Debug\net6.0\sattec.Identity.Infrastructure.runtimeconfig.json
+C:\Users\mc\Downloads\identity (3)\identity\identity\sattec\src\Services\Identity\Identity.Infrastructure\bin\Debug\net6.0\sattec.Identity.Infrastructure.dll
+C:\Users\mc\Downloads\identity (3)\identity\identity\sattec\src\Services\Identity\Identity.Infrastructure\bin\Debug\net6.0\sattec.Identity.Infrastructure.pdb
+C:\Users\mc\Downloads\identity (3)\identity\identity\sattec\src\Services\Identity\Identity.Infrastructure\bin\Debug\net6.0\sattec.Identity.Application.dll
+C:\Users\mc\Downloads\identity (3)\identity\identity\sattec\src\Services\Identity\Identity.Infrastructure\bin\Debug\net6.0\sattec.Identity.Domain.dll
+C:\Users\mc\Downloads\identity (3)\identity\identity\sattec\src\Services\Identity\Identity.Infrastructure\bin\Debug\net6.0\sattec.Identity.Application.pdb
+C:\Users\mc\Downloads\identity (3)\identity\identity\sattec\src\Services\Identity\Identity.Infrastructure\bin\Debug\net6.0\sattec.Identity.Domain.pdb
+C:\Users\mc\Downloads\identity (3)\identity\identity\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net6.0\Identity.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\mc\Downloads\identity (3)\identity\identity\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net6.0\Identity.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mc\Downloads\identity (3)\identity\identity\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net6.0\Identity.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\mc\Downloads\identity (3)\identity\identity\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net6.0\Identity.Infrastructure.AssemblyInfo.cs
+C:\Users\mc\Downloads\identity (3)\identity\identity\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net6.0\Identity.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\mc\Downloads\identity (3)\identity\identity\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net6.0\Identity.Infrastructure.csproj.CopyComplete
+C:\Users\mc\Downloads\identity (3)\identity\identity\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net6.0\sattec.Identity.Infrastructure.dll
+C:\Users\mc\Downloads\identity (3)\identity\identity\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net6.0\refint\sattec.Identity.Infrastructure.dll
+C:\Users\mc\Downloads\identity (3)\identity\identity\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net6.0\sattec.Identity.Infrastructure.pdb
+C:\Users\mc\Downloads\identity (3)\identity\identity\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net6.0\Identity.Infrastructure.genruntimeconfig.cache
+C:\Users\mc\Downloads\identity (3)\identity\identity\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net6.0\ref\sattec.Identity.Infrastructure.dll

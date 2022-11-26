@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "",
+"LaunchCommand": "",
+"WorkingDirectory": "C:\\Users\\mc\\Downloads\\identity (3)\\identity\\identity\\sattec\\src\\Services\\Identity\\Identity.API",
+"MaxTimeoutInSeconds": "120"
+}
+}

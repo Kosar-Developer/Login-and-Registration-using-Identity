@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\sattec\src\Services\Identity\Identity.Application\bin\Debug\net7.0\sattec.Identity.Application.deps.json
+C:\Users\user\source\repos\sattec\src\Services\Identity\Identity.Application\bin\Debug\net7.0\sattec.Identity.Application.dll
+C:\Users\user\source\repos\sattec\src\Services\Identity\Identity.Application\bin\Debug\net7.0\sattec.Identity.Application.pdb
+C:\Users\user\source\repos\sattec\src\Services\Identity\Identity.Application\bin\Debug\net7.0\sattec.Identity.Domain.dll
+C:\Users\user\source\repos\sattec\src\Services\Identity\Identity.Application\bin\Debug\net7.0\sattec.Identity.Domain.pdb
+C:\Users\user\source\repos\sattec\src\Services\Identity\Identity.Application\obj\Debug\net7.0\Identity.Application.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\sattec\src\Services\Identity\Identity.Application\obj\Debug\net7.0\Identity.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\sattec\src\Services\Identity\Identity.Application\obj\Debug\net7.0\Identity.Application.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\sattec\src\Services\Identity\Identity.Application\obj\Debug\net7.0\Identity.Application.AssemblyInfo.cs
+C:\Users\user\source\repos\sattec\src\Services\Identity\Identity.Application\obj\Debug\net7.0\Identity.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\sattec\src\Services\Identity\Identity.Application\obj\Debug\net7.0\Identity.Application.csproj.CopyComplete
+C:\Users\user\source\repos\sattec\src\Services\Identity\Identity.Application\obj\Debug\net7.0\sattec.Identity.Application.dll
+C:\Users\user\source\repos\sattec\src\Services\Identity\Identity.Application\obj\Debug\net7.0\refint\sattec.Identity.Application.dll
+C:\Users\user\source\repos\sattec\src\Services\Identity\Identity.Application\obj\Debug\net7.0\sattec.Identity.Application.pdb
+C:\Users\user\source\repos\sattec\src\Services\Identity\Identity.Application\obj\Debug\net7.0\ref\sattec.Identity.Application.dll

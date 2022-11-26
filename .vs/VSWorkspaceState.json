@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Services",
+    "\\src\\Services\\Identity",
+    "\\src\\Services\\Identity\\Identity.Application",
+    "\\src\\Services\\Identity\\Identity.Application\\Users",
+    "\\src\\Services\\Identity\\Identity.Application\\Users\\Commands",
+    "\\src\\Services\\Identity\\Identity.Infrastructure\\Identity"
+  ],
+  "SelectedNode": "\\sattec.sln",
+  "PreviewInSolutionExplorer": false
+}

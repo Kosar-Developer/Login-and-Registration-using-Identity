@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TodoLists",
+    "\\TodoLists\\Commands",
+    "\\TodoLists\\Commands\\CreateTodoList"
+  ],
+  "SelectedNode": "\\TodoLists\\Commands\\CreateTodoList\\CreateTodoListCommand.cs",
+  "PreviewInSolutionExplorer": false
+}

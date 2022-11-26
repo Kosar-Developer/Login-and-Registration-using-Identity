@@ -1,0 +1,36 @@
+C:\Users\mc\Downloads\sattec\sattec\src\Services\Identity\Identity.Domain\bin\Debug\net6.0\sattec.Identity.Domain.deps.json
+C:\Users\mc\Downloads\sattec\sattec\src\Services\Identity\Identity.Domain\bin\Debug\net6.0\sattec.Identity.Domain.dll
+C:\Users\mc\Downloads\sattec\sattec\src\Services\Identity\Identity.Domain\bin\Debug\net6.0\sattec.Identity.Domain.pdb
+C:\Users\mc\Downloads\sattec\sattec\src\Services\Identity\Identity.Domain\obj\Debug\net6.0\Identity.Domain.csproj.AssemblyReference.cache
+C:\Users\mc\Downloads\sattec\sattec\src\Services\Identity\Identity.Domain\obj\Debug\net6.0\Identity.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mc\Downloads\sattec\sattec\src\Services\Identity\Identity.Domain\obj\Debug\net6.0\Identity.Domain.AssemblyInfoInputs.cache
+C:\Users\mc\Downloads\sattec\sattec\src\Services\Identity\Identity.Domain\obj\Debug\net6.0\Identity.Domain.AssemblyInfo.cs
+C:\Users\mc\Downloads\sattec\sattec\src\Services\Identity\Identity.Domain\obj\Debug\net6.0\Identity.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mc\Downloads\sattec\sattec\src\Services\Identity\Identity.Domain\obj\Debug\net6.0\sattec.Identity.Domain.dll
+C:\Users\mc\Downloads\sattec\sattec\src\Services\Identity\Identity.Domain\obj\Debug\net6.0\refint\sattec.Identity.Domain.dll
+C:\Users\mc\Downloads\sattec\sattec\src\Services\Identity\Identity.Domain\obj\Debug\net6.0\sattec.Identity.Domain.pdb
+C:\Users\mc\Downloads\sattec\sattec\src\Services\Identity\Identity.Domain\obj\Debug\net6.0\ref\sattec.Identity.Domain.dll
+C:\Users\mc\Downloads\identity\identity\sattec\src\Services\Identity\Identity.Domain\bin\Debug\net6.0\sattec.Identity.Domain.deps.json
+C:\Users\mc\Downloads\identity\identity\sattec\src\Services\Identity\Identity.Domain\bin\Debug\net6.0\sattec.Identity.Domain.dll
+C:\Users\mc\Downloads\identity\identity\sattec\src\Services\Identity\Identity.Domain\bin\Debug\net6.0\sattec.Identity.Domain.pdb
+C:\Users\mc\Downloads\identity\identity\sattec\src\Services\Identity\Identity.Domain\obj\Debug\net6.0\Identity.Domain.csproj.AssemblyReference.cache
+C:\Users\mc\Downloads\identity\identity\sattec\src\Services\Identity\Identity.Domain\obj\Debug\net6.0\Identity.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mc\Downloads\identity\identity\sattec\src\Services\Identity\Identity.Domain\obj\Debug\net6.0\Identity.Domain.AssemblyInfoInputs.cache
+C:\Users\mc\Downloads\identity\identity\sattec\src\Services\Identity\Identity.Domain\obj\Debug\net6.0\Identity.Domain.AssemblyInfo.cs
+C:\Users\mc\Downloads\identity\identity\sattec\src\Services\Identity\Identity.Domain\obj\Debug\net6.0\Identity.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mc\Downloads\identity\identity\sattec\src\Services\Identity\Identity.Domain\obj\Debug\net6.0\sattec.Identity.Domain.dll
+C:\Users\mc\Downloads\identity\identity\sattec\src\Services\Identity\Identity.Domain\obj\Debug\net6.0\refint\sattec.Identity.Domain.dll
+C:\Users\mc\Downloads\identity\identity\sattec\src\Services\Identity\Identity.Domain\obj\Debug\net6.0\sattec.Identity.Domain.pdb
+C:\Users\mc\Downloads\identity\identity\sattec\src\Services\Identity\Identity.Domain\obj\Debug\net6.0\ref\sattec.Identity.Domain.dll
+C:\Users\mc\Downloads\identity (3)\identity\identity\sattec\src\Services\Identity\Identity.Domain\bin\Debug\net6.0\sattec.Identity.Domain.deps.json
+C:\Users\mc\Downloads\identity (3)\identity\identity\sattec\src\Services\Identity\Identity.Domain\bin\Debug\net6.0\sattec.Identity.Domain.dll
+C:\Users\mc\Downloads\identity (3)\identity\identity\sattec\src\Services\Identity\Identity.Domain\bin\Debug\net6.0\sattec.Identity.Domain.pdb
+C:\Users\mc\Downloads\identity (3)\identity\identity\sattec\src\Services\Identity\Identity.Domain\obj\Debug\net6.0\Identity.Domain.csproj.AssemblyReference.cache
+C:\Users\mc\Downloads\identity (3)\identity\identity\sattec\src\Services\Identity\Identity.Domain\obj\Debug\net6.0\Identity.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mc\Downloads\identity (3)\identity\identity\sattec\src\Services\Identity\Identity.Domain\obj\Debug\net6.0\Identity.Domain.AssemblyInfoInputs.cache
+C:\Users\mc\Downloads\identity (3)\identity\identity\sattec\src\Services\Identity\Identity.Domain\obj\Debug\net6.0\Identity.Domain.AssemblyInfo.cs
+C:\Users\mc\Downloads\identity (3)\identity\identity\sattec\src\Services\Identity\Identity.Domain\obj\Debug\net6.0\Identity.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mc\Downloads\identity (3)\identity\identity\sattec\src\Services\Identity\Identity.Domain\obj\Debug\net6.0\sattec.Identity.Domain.dll
+C:\Users\mc\Downloads\identity (3)\identity\identity\sattec\src\Services\Identity\Identity.Domain\obj\Debug\net6.0\refint\sattec.Identity.Domain.dll
+C:\Users\mc\Downloads\identity (3)\identity\identity\sattec\src\Services\Identity\Identity.Domain\obj\Debug\net6.0\sattec.Identity.Domain.pdb
+C:\Users\mc\Downloads\identity (3)\identity\identity\sattec\src\Services\Identity\Identity.Domain\obj\Debug\net6.0\ref\sattec.Identity.Domain.dll

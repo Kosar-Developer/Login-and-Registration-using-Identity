@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\sattec\src\Services\Identity\Identity.Infrastructure\bin\Debug\net7.0\sattec.Identity.Infrastructure.deps.json
+C:\Users\user\source\repos\sattec\src\Services\Identity\Identity.Infrastructure\bin\Debug\net7.0\sattec.Identity.Infrastructure.dll
+C:\Users\user\source\repos\sattec\src\Services\Identity\Identity.Infrastructure\bin\Debug\net7.0\sattec.Identity.Infrastructure.pdb
+C:\Users\user\source\repos\sattec\src\Services\Identity\Identity.Infrastructure\bin\Debug\net7.0\sattec.Identity.Application.dll
+C:\Users\user\source\repos\sattec\src\Services\Identity\Identity.Infrastructure\bin\Debug\net7.0\sattec.Identity.Domain.dll
+C:\Users\user\source\repos\sattec\src\Services\Identity\Identity.Infrastructure\bin\Debug\net7.0\sattec.Identity.Application.pdb
+C:\Users\user\source\repos\sattec\src\Services\Identity\Identity.Infrastructure\bin\Debug\net7.0\sattec.Identity.Domain.pdb
+C:\Users\user\source\repos\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net7.0\Identity.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net7.0\Identity.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net7.0\Identity.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net7.0\Identity.Infrastructure.AssemblyInfo.cs
+C:\Users\user\source\repos\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net7.0\Identity.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net7.0\Identity.Infrastructure.csproj.CopyComplete
+C:\Users\user\source\repos\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net7.0\sattec.Identity.Infrastructure.dll
+C:\Users\user\source\repos\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net7.0\refint\sattec.Identity.Infrastructure.dll
+C:\Users\user\source\repos\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net7.0\sattec.Identity.Infrastructure.pdb
+C:\Users\user\source\repos\sattec\src\Services\Identity\Identity.Infrastructure\obj\Debug\net7.0\ref\sattec.Identity.Infrastructure.dll
